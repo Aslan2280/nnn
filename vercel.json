@@ -2,7 +2,7 @@
   "rewrites": [
     {
       "source": "/api/:path*",
-      "destination": "http://de-bots.h1cloud.net:25143/api/:path*"
+      "destination": "http://de-bots.h1cloud.net:25143/:path*"
     }
   ]
 }
